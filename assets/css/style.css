@@ -6,11 +6,43 @@ body {
 /* w3schools used for hero-image code https://www.w3schools.com/howto/howto_css_hero_image.asp */
 .hero-image {
   background-image: url("../images/epl-logo.png");
-  min-height: 90vh;
+  min-height: 100vh;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
+}
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #007;
+  width: 200px;
+  height: 300px;
+  background-color: aliceblue;
+  border-radius: 10px;
+  margin-top: 30px;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 15vw;
+  object-fit: cover;
+  max-height: 150px;
+  min-height: 120px;
+}
+
+.title {
+  margin-top: 5px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
 }
 
 /* Footer */
