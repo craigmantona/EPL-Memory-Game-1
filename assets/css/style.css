@@ -1,15 +1,39 @@
 body {
-  font-family: font-family: 'Rubik', sans-serif;;
+  font-family: font-family: 'Rubik', sans-serif;
+  height: 100%;
 }
+
 /* w3schools used for hero-image code https://www.w3schools.com/howto/howto_css_hero_image.asp */
 .hero-image {
-    background-image: url("../images/epl-logo.png");
-    min-height: 82vh;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-  }
+  background-image: url("../images/epl-logo.png");
+  min-height: 90vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
 
- 
+/* Footer */
 
+.footer-container {
+  font-size: medium;
+  
+  padding-top: 30px;
+}
+
+.footer {
+  background-color: black;
+  color: whitesmoke;
+  border-color: whitesmoke;
+  margin: 0;
+  font-size: 20px;
+}
+
+.social-links i {
+  font-size: 35px;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #95c0ee;
+}
