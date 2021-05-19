@@ -1,6 +1,6 @@
 body {
   font-family: font-family: 'Rubik', sans-serif;
-  height: 100%;
+  /* height: 100%; */
 }
 
 /* w3schools used for hero-image code https://www.w3schools.com/howto/howto_css_hero_image.asp */
@@ -36,10 +36,10 @@ body {
 } */
 
 .title {
-  /* background-color: antiquewhite; */
+  background-color: antiquewhite;
   padding: 10px;
-  margin: 20px;
-}
+  margin: 30px;
+} 
 
 /* Button */
 
