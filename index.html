@@ -6,8 +6,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet"
-    integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
+    integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css"
     integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
   <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap" rel="stylesheet">
@@ -17,68 +17,101 @@
 
 <body class="hero-image">
 
-  
-    <div class="col-12 title jumbotron">
-        <h1>EPL Memory Game</h1>
-    </div>
 
-
-
-  <div class="container-fluid">
-    
-      <div class="col col-md-12">
-        <div class="hero-text">
-          <h1>Rules and settings</h1>
-          <p>Description</p>
-          <!-- Button modal -->
-          <button type="button" class="btn btn-success" data-toggle="modal" data-target="#menuModal">Let's begin</button>
-        </div>
-        </div>
-      </div>
-      
+  <div class="col title text-center">
+    <h1>EPL Memory Game</h1>
+    <br>
+    <p>A memory game based on the teams in the English Premier League</p>
   </div>
 
 
 
+  <div class="container-fluid text-center">
 
 
-  <!--Footer section-->
-  <footer class="footer container-fluid footer-container text-center fixed-bottom">
-    <div id="footer-details" class="row">
-      <div class="col-sm-4 d-none d-lg-block">
-        <span class="sr-only">Contact telephone number.</span>
-        <p>Contact number: <a href="tel:0100-8009002" class="inline-block"> 0100-8009002</a></p>
+    <!-- Modal -->
+
+    <button type="button" class="btn btn-classes" data-toggle="modal" data-target="#rulesModal">Rules of the game</button>
+
+
+
+
+
+
+
+
+
+
+    <!--Footer section-->
+    <footer class="footer container-fluid footer-container text-center fixed-bottom">
+      <div id="footer-details" class="row">
+        <div class="col-sm-4 d-none d-lg-block">
+          <span class="sr-only">Contact telephone number.</span>
+          <p>Contact number: <a href="tel:0100-8009002" class="inline-block"> 0100-8009002</a></p>
+        </div>
+
+        <div class="col-sm-4 text-center">
+          <p>MantonApp2021©</p>
+        </div>
+
+        <div class="col-sm-4 d-none d-lg-block">
+          <i class="fas fa-tablet-alt d-none" aria-hidden="true"></i>
+          <ul class="list-inline social-links">
+            <li class="list-inline-item">
+              <a target="_blank" href="https://en-gb.facebook.com/">
+                <i class="fab fa-facebook" aria-hidden="true"></i>
+                <span class="sr-only">Facebook</span>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a target="_blank" href="https://twitter.com/?lang=en-gb">
+                <i class="fab fa-twitter" aria-hidden="true"></i>
+                <span class="sr-only">Twitter</span>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a target="_blank" href="https://www.instagram.com/">
+                <i class="fab fa-instagram" aria-hidden="true"></i>
+                <span class="sr-only">Instagram</span>
+              </a>
+            </li>
+          </ul>
+        </div>
       </div>
+    </footer>
 
-      <div class="col-sm-4 text-center">
-        <p>MantonApp2021©</p>
-      </div>
-
-      <div class="col-sm-4 d-none d-lg-block">
-        <i class="fas fa-tablet-alt d-none" aria-hidden="true"></i>
-        <ul class="list-inline social-links">
-          <li class="list-inline-item">
-            <a target="_blank" href="https://en-gb.facebook.com/">
-              <i class="fab fa-facebook" aria-hidden="true"></i>
-              <span class="sr-only">Facebook</span>
-            </a>
-          </li>
-          <li class="list-inline-item">
-            <a target="_blank" href="https://twitter.com/?lang=en-gb">
-              <i class="fab fa-twitter" aria-hidden="true"></i>
-              <span class="sr-only">Twitter</span>
-            </a>
-          </li>
-          <li class="list-inline-item">
-            <a target="_blank" href="https://www.instagram.com/">
-              <i class="fab fa-instagram" aria-hidden="true"></i>
-              <span class="sr-only">Instagram</span>
-            </a>
-          </li>
-        </ul>
+    <div class="modal fade" id="rulesModal" role="dialog">
+      <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h3 class="modal-title">Rules</h3>
+          </div>
+          <div class="modal-body">
+            
+            <p>Turn over any two cards on each turn. If they match they will stay turned, if they do not they will flip back over.</p>
+            <p>Locate all of the hidden pairs as quickly as you can!
+            </p>
+            
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          </div>
+        </div>
       </div>
     </div>
-  </footer>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+      integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"
+      integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous">
+    </script>
+
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"
+      integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous">
+    </script>
+
+
 </body>
 
 </html>
