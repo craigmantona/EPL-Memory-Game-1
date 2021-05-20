@@ -1,6 +1,6 @@
 body {
-  font-family: font-family: 'Rubik', sans-serif;
-  /* height: 100%; */
+  font-family: 'Noto Sans TC', sans-serif;
+  height: 100vh;
 }
 
 /* w3schools used for hero-image code https://www.w3schools.com/howto/howto_css_hero_image.asp */
@@ -84,4 +84,11 @@ a:hover {
 .modal-content {
   background-color: #007;
   color: whitesmoke;
+}
+
+/*game styling */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
