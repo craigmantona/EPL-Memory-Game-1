@@ -19,43 +19,23 @@
 
 <body class="hero-image">
 
-
-  <div class="col title text-center">
-    <h2 class="display-2">EPL Memory Game</h2>
-    <br>
-    <p>A memory game based on the teams in the English Premier League</p>
-  </div>
-
-
-
   <div class="container-fluid text-center">
 
-
-    <!-- Modal -->
-
-    <button type="button" class="btn btn-classes" data-toggle="modal" data-target="#rulesModal">Rules of the game</button>
-
-
-  </div>
-   
-  <br>
-
-  <div class="container-fluid text-center">
-
-
-    <button type="button" class="btn btn-classes" data-toggle="modal" data-target="#playModal">Play Game</button>
-
-
+    <a class="btn" href="index.html">Home</a>
+  
+    
   </div>
 
   <br>
 
-  <div class="container-fluid text-center">
+  <section class="container-fluid">
 
-  <a class="btn" href="team-location.html">Team Location</a>
+  <div id="map"></div>
+
+</section>
 
   
-</div>
+
 
 
 
@@ -71,7 +51,6 @@
 
         <div class="col-sm-4 text-center">
           <p>MantonApp2021©</p>
-          
         </div>
 
         <div class="col-sm-4 d-none d-lg-block">
@@ -101,45 +80,6 @@
     </footer>
 
 
-    <!-- Rules modal -->
-    <div class="modal fade" id="rulesModal" role="dialog">
-      <div class="modal-dialog modal-dialog-centered">
-        <div class="modal-content">
-          <div class="modal-header">
-            <h3 class="modal-title">Rules</h3>
-          </div>
-          <div class="modal-body">
-            
-            <p>Turn over any two cards on each turn. If they match they will stay turned, if they do not they will flip back over.</p>
-            <p>Locate all of the hidden pairs as quickly as you can!
-            </p>
-            
-          </div>
-          <div class="modal-footer">
-            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <!-- Play modal -->
-    <div class="modal fade" id="playModal" role="dialog">
-      <div class="modal-dialog modal-dialog-centered">
-        <div class="modal-content">
-          <div class="modal-header">
-            <h3 class="modal-title">Select game</h3>
-          </div>
-          <div class="modal-body text-center">
-            <a href="easy-game.html">Easy</a>
-            <button type="button" class="btn btn-default" data-dismiss="modal">Medium</button>
-            <button type="button" class="btn btn-default" data-dismiss="modal">Hard</button>
-          </div>
-          <div class="modal-footer">
-            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-          </div>
-        </div>
-      </div>
-    </div>
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
       integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">

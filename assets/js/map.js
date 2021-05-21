@@ -1,18 +1,20 @@
+/* Code attained by following tutorial from course */
+
 function initMap() {
     var map = new google.maps.Map(document.getElementById("map"), {
         zoom: 3,
         center: {
-            lat: 46.619261,
-            lng: -33.134766
+            lat: 53.430759,
+            lng: -2.961425
         }
     });
 
     var labels = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
     var locations = [
-        { lat: 40.785091, lng: -73.968285 },
-        { lat: 41.084045, lng: -73.874245 },
-        { lat: 40.754932, lng: -73.984016 }
+        { lat: 53.430759, lng: -2.961425 },
+        { lat: 	51.555, lng: -0.108611 },
+        { lat: 52.509167, lng: -1.884722}
     ];
 
     var markers = locations.map(function(location, i) {
