@@ -134,10 +134,23 @@ a:hover {
   transform: rotateY(180deg);
 }
 
+#home {
+  font-size: x-large;
+  background: #007;
+  color: white;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
 /* Map */
 div#map {
   min-height: 360px;
   position: absolute;
+}
+
+/* Contact form */
+#contact-form {
+  background-color: antiquewhite;
 }
 
 
