@@ -64,10 +64,8 @@
     <!--Footer section-->
     <footer class="footer container-fluid footer-container text-center fixed-bottom">
       <div id="footer-details footer" class="row">
-        <div class="col-sm-4 d-none d-lg-block">
-          <span class="sr-only">Contact telephone number.</span>
-          <p>Contact number: <a href="tel:0100-8009002" class="inline-block"> 0100-8009002</a></p>
-        </div>
+        <div class="col-sm-4 ">
+          <button type="button" class="btn btn-classes" data-toggle="modal" data-target="#contactModal">Contact Us</button></div>
 
         <div class="col-sm-4 text-center">
           <p>MantonApp2021©</p>
@@ -140,6 +138,41 @@
         </div>
       </div>
     </div>
+
+     <!-- Contact us modal -->
+     <div class="modal fade" id="contactModal" role="dialog">
+      <div class="container col-md-4 mb-2 w-25 p-3" id="contact-form">
+        <div>
+          <form id="form">
+            <h2>Contact us</h2>
+            <div class="form-group">
+              <label>Your Name</label>
+              <input type="text" class="form-control" name="from_name" id="from_name"
+                placeholder="Enter your name here" required>
+            </div>
+            <div class="form-group">
+              <label>Email</label>
+              <input type="email" class="form-control" name="reply_to" id="reply_to"
+                placeholder="Enter your email here" required>
+            </div>
+            <div class="form-group">
+              <label>Your Message</label>
+              <textarea class="form-control" name="message" id="message" placeholder="Type your message here"
+                required></textarea>
+            </div>
+            <div class="container">
+              <div class="row">
+                <div class="col text-center mb-3">
+                  <button type="submit" value="Send Email" id="button"
+                    class="btn btn-light border border-dark">Submit</button>
+                </div>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
       integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">

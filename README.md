@@ -31,10 +31,9 @@ Badge - Image by <a href="https://pixabay.com/users/clker-free-vector-images-373
 EPL Memory Game - my second milestone project - a site for educational purpose based on the clubs in the English Premier League.
 <!-- ## [Link to finished GYM site](https://craigmantona.github.io/GYM-project/) -->
 
-This is my GYM website that I have made by using the skills and code from the course so far (Love running, CV, Whiskey Drop to mention a few.)
+This is my educational Memory Game based on the English Premier League.
 
-This website has been made with an established gym in mind. I have tried to make a website that is easy to access, and that has similar visuals/colour themes throughout. It should be fully accessible on a range of devices and simple to navigate for new GYM users and regular members.
-I have visited several gym sites in my life and I have tried to encourporate all of the information that I considered to be vital. I have asked some friends and family for their input, and have added some extra features as a result of that interaction.
+It is a simple memory game that has been made using css, HTML and javascript.
 
 
 <img src="/assets/images/mock-up-of-site.png" alt="Images of site on different media screens."/>
@@ -75,9 +74,7 @@ I have visited several gym sites in my life and I have tried to encourporate all
 
 ## Website owner business goals
 
-<!-- The main reason to create this website is to help showcase what GYM has to offer to the public.
-GYM owner can present the offers, membership, opening times, location, and contact details of GYM.
-Also this website is the best place to show types of fitness classes, personal training and equipment. -->
+Create a basic memory game that is fun and easy to play.
 
 
 ## User stories
@@ -131,14 +128,14 @@ I have asked some friends and family for their input, and have added some extra 
 
 ### Fonts 
 
-<!-- * The Merriweather font is the main font used throughout the whole website with Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Merriweather is a clean and clear font, so it is both attractive and appropriate. -->
+* The Noto Sans TC font is the main font used throughout the whole website with Sana-Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Noto Sans TC is a clean and clear font, so it is both attractive and appropriate. 
 
 ### Images
 
-<!-- * All images are credited in [credits](#credits) section.
+* All images are credited in [credits](#credits) section.
 
 
-[Back to Table of contents](#table-of-contents) -->
+[Back to Table of contents](#table-of-contents)
 ___
 
 # Features
