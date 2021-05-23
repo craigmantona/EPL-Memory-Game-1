@@ -5,6 +5,7 @@ var hasFlippedCard = false;
 var lockBoard = false;
 var firstCard, secondCard;
 
+
 function flipCard() {
   if (lockBoard) return;
   if (this === firstCard) return;
@@ -25,7 +26,7 @@ function flipCard() {
   
 }
 
-
+//match
 
 function checkForMatch() {
   let isMatch = firstCard.dataset.framework === secondCard.dataset.framework;
@@ -58,12 +59,14 @@ function resetBoard() {
   [firstCard, secondCard] = [null, null];
 }
 
+//function to shuffle cards immediatley invoked 
 (function shuffle() {
   cards.forEach(card => {
     let randomPos = Math.floor(Math.random() * 12);
     card.style.order = randomPos;
   });
 })();
+
 
 cards.forEach(card => card.addEventListener('click', flipCard));
 
