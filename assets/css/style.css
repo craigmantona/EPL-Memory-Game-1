@@ -134,10 +134,7 @@ a:hover {
   transform: rotateY(180deg);
 }
 
-#home {
-  font-size: x-large;
-  background: #007;
-  color: white;
+.home-btn {
   margin-top: 20px;
   margin-left: 20px;
 }

@@ -1,24 +1,10 @@
 Photo by Dom Le Roy from Pexels stadium photo - https://www.pexels.com/photo/people-sitting-on-stadium-seats-3991976/
 
 Arsenal flag - Image by <a href="https://pixabay.com/users/jorono-1966666/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3568936">jorono</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3568936">Pixabay</a>
-Aston Villa badge from free wallpapers - https://wallpaperaccess.com/aston-villa
-Brighton flag - Image by <a href="https://pixabay.com/users/jorono-1966666/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3568898">jorono</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3568898">Pixabay</a>
-Burnley flag - Image by <a href="https://pixabay.com/users/jorono-1966666/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3568904">jorono</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3568904">Pixabay</a>
 Chelsea - Image by <a href="https://pixabay.com/users/jorono-1966666/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2699594">jorono</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2699594">Pixabay</a>
-Crystal Palace - https://freepngimg.com/png/11594-crystal-palace-f.c-logo-picture
-Everton - Image by <a href="https://pixabay.com/users/jorono-1966666/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3568903">jorono</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3568903">Pixabay</a>
-Fulham - Image by <a href="https://pixabay.com/users/jorono-1966666/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3568906">jorono</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3568906">Pixabay</a>
-Leeds United - https://wallpaperaccess.com/leeds-united
 Leicester - Image by <a href="https://pixabay.com/users/jorono-1966666/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3566688">jorono</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3566688">Pixabay</a>
 Liverpool - Image by <a href="https://pixabay.com/users/jorono-1966666/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2698969">jorono</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2698969">Pixabay</a>
 Man City - Image by <a href="https://pixabay.com/users/jorono-1966666/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2697766">jorono</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2697766">Pixabay</a>
-Man Utd - https://freepngimg.com/png/14376-manchester-united-logo-png
-Newcastle - Image by <a href="https://pixabay.com/users/jorono-1966666/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3566693">jorono</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3566693">Pixabay</a>
-Sheffield United - https://www.subpng.com/png-cdh8up/download.html
-Southampton - Image by <a href="https://pixabay.com/users/jorono-1966666/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3568907">jorono</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3568907">Pixabay</a>
-Tottenham Hotspur -Image by <a href="https://pixabay.com/users/jorono-1966666/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2698974">jorono</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2698974">Pixabay</a>
-West Bromwhich Albion - https://besthqwallpapers.com/download/41117/1280x800
-West Ham United - Image by <a href="https://pixabay.com/users/jorono-1966666/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3566695">jorono</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3566695">Pixabay</a>
 Wolverhampton Wanderers - Image by <a href="https://pixabay.com/users/jorono-1966666/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3568910">jorono</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3568910">Pixabay</a>
 
 Badge - Image by <a href="https://pixabay.com/users/clker-free-vector-images-3736/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=308943">Clker-Free-Vector-Images</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=308943">Pixabay</a>
@@ -45,9 +31,8 @@ It is a simple memory game that has been made using css, HTML and javascript.
 - [UX](#ux)
     - [Website owner business goals](#website-owner-business-goals)
     - [User goals](#user-goals)
-        - [Website owner business goals](#website-owner-business-goals)
-        - [New user goals](#new-user-goals)
-        - [Returning user goals](#returning-user-goals)
+        - [As a site owner](#as-a-site-owner)
+        - [As a visitor to the site](#as-a-visitor-to-the-site)
     - [User stories](#user-stories)
     - [Structure of the website](#structure-of-the-website)
     - [Wireframes](#wireframes)
@@ -96,34 +81,28 @@ Create a basic memory game that is fun and easy to play.
 
 ## Structure of the website
 
-<!-- This website has been made with an established gym in mind. 
 I have tried to make a website that is easy to access, and that has similar visuals/colour themes throughout. 
-It should be fully accessible on a range of devices and simple to navigate for new GYM users and regular members.
-I have visited several gym sites in my life and I have tried to encourporate all of the information that I considered to be vital. 
-I have asked some friends and family for their input, and have added some extra features as a result of that interaction. -->
+It should be fully accessible on a range of devices and simple to navigate for all.
+I have asked some friends and family for their input and to test interaction
 
 ## Wireframes
 
-<!-- I used the site Balsamiq to create the wireframes for the site.
+I used the site https://www.edrawmax.com/ to create the wireframes for the site.
 
-<img src="/assets/images/GYM-website-main-page.png" alt="Image of main page wireframe created before project started.">
+<img src="/assets/images/memory-game-iphone-wireframe-1.png" alt="Image of main page wireframe created before project started.">
 
-<img src="/assets/images/GYM-website-prices-page.png" alt="Image of main page wireframe created before project started.">
+<img src="/assets/images/memory-game-iphone-wireframe-2.png" alt="Image of main page wireframe created before project started.">
 
-<img src="/assets/images/GYM-website-classes-page.png" alt="Image of main page wireframe created before project started.">
+<img src="/assets/images/memory-game-website-wireframe-1.png" alt="Image of main page wireframe created before project started.">
 
-<img src="/assets/images/GYM-website-contact-page.png" alt="Image of main page wireframe created before project started.">
-
-<img src="/assets/images/GYM-wireframe-iPad.png" alt="Image of main page wireframe created before project started.">
-
-<img src="/assets/images/GYM-wireframe-iPhone.png" alt="Image of main page wireframe created before project started."> -->
+<img src="/assets/images/memory-game-website-wireframe-2.png" alt="Image of main page wireframe created before project started.">
 
 ## Surface
 
 ### Colors
-<!-- Main colours used in a project:
-* background color: whitesmoke
-* font color: #212529, tomato, and f5f5f5 -->
+Main colours used in a project:
+* background was an image
+* other background colors used: whitesmoke, #007 (a bold blue) and antiquewhite
 
 
 ### Fonts 
