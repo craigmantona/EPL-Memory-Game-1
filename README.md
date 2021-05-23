@@ -1,15 +1,3 @@
-Photo by Dom Le Roy from Pexels stadium photo - https://www.pexels.com/photo/people-sitting-on-stadium-seats-3991976/
-
-Arsenal flag - Image by <a href="https://pixabay.com/users/jorono-1966666/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3568936">jorono</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3568936">Pixabay</a>
-Chelsea - Image by <a href="https://pixabay.com/users/jorono-1966666/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2699594">jorono</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2699594">Pixabay</a>
-Leicester - Image by <a href="https://pixabay.com/users/jorono-1966666/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3566688">jorono</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3566688">Pixabay</a>
-Liverpool - Image by <a href="https://pixabay.com/users/jorono-1966666/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2698969">jorono</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2698969">Pixabay</a>
-Man City - Image by <a href="https://pixabay.com/users/jorono-1966666/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2697766">jorono</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2697766">Pixabay</a>
-Wolverhampton Wanderers - Image by <a href="https://pixabay.com/users/jorono-1966666/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3568910">jorono</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3568910">Pixabay</a>
-
-Badge - Image by <a href="https://pixabay.com/users/clker-free-vector-images-3736/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=308943">Clker-Free-Vector-Images</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=308943">Pixabay</a>
-
-
 # Craig's EPL Memory Game
 
 ## Interactive Frontend Development Milestone Project.
@@ -119,87 +107,68 @@ ___
 
 # Features
 
-<!-- The website consists of four pages. All are accessible from a navigation menu.
+The website consists of four pages. All are accessible from the main page. (Game page, team location page and contact page)
 
 * Responsive on all device sizes
 * Interactive elements
 
-The website has below features: -->
-
-## Navigation bar
-
-* #### Navigation bar is visible on the top of each website page. 
-<!-- It is responsive and will adapt to mobile devices by a change into a burger menu.
-* Navigation scheme:
-
-    * On left side there is a logo. It can be used as navigation link to the main page.
-    * Then there are five links or burger menu. It contains:
-        * Prices
-        * Classes
-        * Team & Contact details
-        * Sign Up
-        * Login -->
+The website has below features:
 
 
 ## Footer
 
-<!-- * Footer is consistent on all pages. 
-It has contact phone number on left side, location link in the center and social links on right side.
-Each link will open in a separate tab in a browser. -->
+* Footer is consistent on all pages except for the game page. 
+It has a contact button left side, and copyright text on the right side.
 
 ## Home
 
-<!-- * ### Sign Up / Login 
+* ### Title 
 
-    * There is a large jumbotron section calling users to sign up or login to the GYM.
+    * There is a h3 title to let people know what site they are on.
 
-* ### Opening hours
+* ### Rules of the game
 
-    * This shows the opening times of the GYM.
+    * This is a modal showing the simple instructions of how to play the game.
 
-* ### Map
+* ### Play Game
 
-    * This shows where the GYM is located. You can click on it to open up a new page on google maps to get directions to the GYM.
+    * This button takes you to the game page.
 
-* ### About us
+* ### Team location
 
-    * This gives you some information on the GYM and a brief guide as to what they offer. -->
+    * This take you to the team location page where you can see the location of all 20 Premier League clubs.
 
-## Prices
+## Game page
 
-<!-- * ### Payment plans
+* ### Home button
 
-    * This is where the customer can see what different payment plans are on offer. -->
+    * This allows the user to navigate back to the home page.
 
-## Classes
+* ### Play again button
 
-<!-- * ### Classes
+    * This allows the user to play the game again.
 
-    * There is a list of what classes are on offer at the GYM. 
-    * Each one when clicked will show a description of the class and when they are on.
-    * There is a link to call the GYM to book in for the classes.
 
-* ### Equipment
+## Team location page
 
-    * This shows what equipment the GYM boasts.
+* ### Home button
 
-* ### Personal Training
+    * This allows the user to navigate back to the home page.
 
-    * This describes how many personal trainers the GYM has and what they offer. -->
+* ### Google map
 
-## Team & Contact details
+    * This shows the user where the location of all 20 Premier League clubs.
 
-<!-- * ### Contact us
+## Contact us page
 
-    * This is where there are links to email, call or direct message on Twitter to the GYM.
+* ### Home button
+
+    * This allows the user to navigate back to the home page.
 
 * ### Enquiry form
 
-    * This is where you can send a message directly to the GYM.
+    * This is where you can send a message directly to us.
 
-* ### The team
-
-    * This shows you images and videos (on larger devices) and a description of the gym instructers at GYM. -->
 
 [Back to Table of contents](#table-of-contents)
 ___
@@ -211,28 +180,26 @@ ___
 * Javascript
 
 ### Frameworks, Libraries & Programs Used
-<!-- 1. Bootstrap 4.4.1:
+1. Bootstrap 4.6:
     * Bootstrap was used to assist with the responsiveness and styling of the website.
 2. Hover.css:
-    * Hover.css was used on the Social Media in the footer and the buttons in all pages to add the float transition while being hovered over.
+    * Hover.css was used on the the buttons in all pages to add the float transition while being hovered over.
 3. Google Fonts:
-    * Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
-4. Font Awesome:
-    * Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
-5. jQuery:
+    * Google fonts were used to import the 'Noto Sans TC' font into the style.css file which is used on all pages throughout the project.
+4. jQuery:
     * jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
-6. Git
+5. Git
     * Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
-7. GitHub:
+6. GitHub:
     * GitHub is used to store the projects code after being pushed from Git.
-8. Pixabay:
+7. Pixabay:
     * Pixabay was used for the images on the website.
 9. Pexels:
-    * Pexels was used for the videos on the website.
-10. Balsamiq:
-    * Balsamiq was used to create the wireframes during the design process.
+    * Pexels was used for the main image on the website.
+10. Edrawmax:
+    * Edrawmax was used to create the wireframes during the design process.
 11. Tinypng:
-    * Tinypng was used to reduce size of images. -->
+    * Tinypng was used to reduce size of images.
 
 
 [Back to Table of contents](#table-of-contents)
@@ -240,53 +207,63 @@ ___
 # Testing
 
 ## Code validation
-<!-- The Webformatter.com Markup Validator were used to validate every page of the project to ensure there were no syntax errors in the project for both HTML and CSS.
+The Webformatter.com Markup Validator were used to validate every page of the project to ensure there were no syntax errors in the project for both HTML and CSS.
 
-* [HTML & CSS code checked through HTML/CSS Formatter](https://webformatter.com/html) No issues found -->
+* [HTML, CSS and JavaScript code checked through HTML/CSS/Javascript Formatter](https://webformatter.com/html) No issues found
 
 ## Functionality testing 
 
- <!-- I used Chrome developer tools throughout the project for testing and solving problems with responsiveness and style issues.
-  -->
+ I used Chrome developer tools throughout the project for testing and solving problems with responsiveness and style issues.
+ 
 
 ## Compatibility testing
- <!-- Site was tested across several virtual mobile devices and browsers.
+ Site was tested across several virtual mobile devices and browsers.
  
- I tested on hardware devices such as: iPad pro, and iPhone11. -->
+ I tested on hardware devices such as: iPad pro, and iPhone11.
 
 
 ## User stories testing
 
 ### As a site owner:
 
-<!-- - I would like potential customers to be aware of the special offer currently on.
-    * There is a banner that is on the webpages that links to the new prices on offer at the GYM.
+- I would like to make a game that is enjoyable for people to play.
+    * The game is very easy to use and good fun.
 
-- I would like to ensure that customers new and old are aware of the opening times for the GYM.
-    * There is  a clear and concise list of the opening hours on the main page of the site.
+- I want visitors to my game to be able to use my website intuitively and easily.
+    * The site is very easy to navigate.
 
-- I want all customers to be able to learn how to use my website intuitively and easily.
-    * Each page has a fixed navigation menu and is accessible at all times. All content is clear and crisp.
+- I would like visitors to my game be able to easily find the rules on how to play the game.
+    * The rules are easy to find on the main page.
 
-- I would like all customers to easily be able to contact the GYM with any queeries.
-    * There are social links and phone links at the footer of every page and there is a DM and enquiry for in the Contact page. -->
+- I would like visitors to my game be able to ask me any questions via a contact form.
+    *The contact form is easily located on the footer of all pages except the main game page.
 
 
 ### As a visitor:
-<!-- - User is able to understand the main purpose of the site and learn more about the GYM.
-    * User can see description on the home page. 
 
-- User can easily navigate throughout the site.
-    * Each page has a fixed navigation menu and is accessible at all times. All content is clear and crisp.
+- I would like to know the rules of the game.
+    * The rules are easy to find on the main page.
 
-- Know where they are located and how to contact the GYM.
-    * There are social links and phone links at the footer of every page and there is a DM and enquiry for in the Contact page. -->
+- As a fan of the Premier League I would like to know the current league standings.
+    * The API that I was hoping to use to do this did not work unfortunatley. Instead I had an interactive map locating all of the Premier League grounds.
+
+- I would like to know what the top score is.
+    * I did not get around to adding this element as I ran out of time. I will look to add this at a later stage.
+
+- I would like to know how I performed in my game. Time and moves.
+    * I did not get around to adding this element as I ran out of time. I will look to add this at a later stage.
+
+- I would like several difficulty levels to test myself on.
+    * I did not get around to adding this element as I ran out of time. I will look to add this at a later stage.
+
+- I would like a fun way to test my memory skills out.
+    * This is a fun way to test your basic memory skills.
 
 
 ---
 ## Issues found during site development
 
-<!-- * Original font used - Bebas Neue - was replaced as the all caps view seemed a bit aggresive throughout the site.
+* The API site that I signed up to use on the site proved to be unreliable and I had to abandon it in favour of the google map api.
 
 * The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
 
@@ -294,24 +271,19 @@ ___
 
 * Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
-* I got my wife, brother and a friend to test the site as a 'new visitor'. Some styling ideas were put forward resulting in some font colour changes and a different look to the gym classes descriptions view.
-My mentor also looked through it when I was part way through and advised me to change the font and also to compress the images so the site would load quicker.
-
-* Linking issue within the navbar corrected after testing. Home gage icon was not set to link to Home page and was therefore linking to an error 404 page instead.
-
-* Images were only showing up on local site and not the website. Changed the linking to the images to rectify issue. -->
+* Issue with getting the cards to flip caused a lot of headaches. I got a friend (Palmjit Kunnar) to cast his eyes over my js code and he found my problem. I had accidentaly left some code out of the curly brackets that meant the js always stopped after the first click.
 
 
 ## Performance testing
 
-<!-- I ran [Lighthouse](https://developers.google.com/web/tools/lighthouse/) tool to check performance of the website.
+I ran [Lighthouse](https://developers.google.com/web/tools/lighthouse/) tool to check performance of the website.
 Screenshots are presented below:
 
 <img src="/assets/images/lighthouse.png" alt="Images of performance from Lighthouse."/>
 
 
 ### Known bugs
-On some mobile devices the videos of the Personal Trainers are seen as still images. -->
+The bottom of the cards on the game screen are slightly off the bottom of the screen.
 
 ---
 
@@ -322,7 +294,7 @@ This project was made using GitHub and GitPod.
 How to deploy this page to GitHub pages from the repository:
 
 1. Log in to GitHub
-2. Select the repository craigmantona/GYM-project
+2. Select the repository craigmantona/EPL-Memory-Game-1
 3. Under the repository name, click  Settings.
 4. Under "GitHub Pages", use the None or Branch drop-down menu and select a publishing source.
 5. Optionally, use the drop-down menu to select a folder for your publishing source.
@@ -343,50 +315,38 @@ ___
 
 # Credits
 
-<!-- ### Code
+### Code
 * Code learned through the Code Institute Full Stack Development course was used throughout the site.
 
 * Bootstrap4: Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 
-* Map code found on following help site - <a href="https://blog.duda.co/responsive-google-maps-for-your-website"></a>
-
-* Direct Twitter DM code found at - <a href="https://developer.twitter.com/en/docs/twitter-for-websites/direct-message-button"></a>
-
 * Deployment instructions used from GitHub help pages
 
-* README file template from Code Institute used as a guide. <a href="https://github.com/Code-Institute-Solutions/SampleREADME"></a> -->
+* README file template from Code Institute used as a guide. <a href="https://github.com/Code-Institute-Solutions/SampleREADME"></a>
+
+* code learnt through freeCodeCamp.org video on YouTube for Memory Game <a href="https://www.youtube.com/watch?v=ZniVgo8U7ek&t=1733s"></a>
 
 ### Content
-<!-- * All content was written by the developer. -->
+* All content was written by the developer.
 
 ### Links and images
 
-    <!-- 1. Clock image - Image by <a href="https://pixabay.com/users/memed_nurrohmad-3307648/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2579300">Memed_Nurrohmad</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2579300">Pixabay</a>
-    2. Map image - Image by <a href="https://pixabay.com/users/mmi9-1424200/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1272165">mmi9</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1272165">Pixabay</a>
-    3. About us image - Image by <a href="https://pixabay.com/users/mohamed_hassan-5229782/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3180368">mohamed Hassan</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3180368">Pixabay</a>
-    4. Hero image - Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1867327">Pexels</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1867327">Pixabay</a>
-    5. Gym equipment image Image by <a href="https://pixabay.com/users/lewisgoodphotos-15859574/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5030966">Lewis Good</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5030966">Pixabay</a>
-    6. Swimming pool image - Image by <a href="https://pixabay.com/users/janeb13-725943/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1185775">janeb13</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1185775">Pixabay</a>
-    7. Gym instructer video 3 - Video by Gustavo Fring from Pexels <a href="https://www.pexels.com/video/a-group-of-pregnant-women-doing-prenatal-exercises-4110586/"></a>
-    8. Gym instructer video 2 - Video by cottonbro from Pexels <a href="https://www.pexels.com/video/sport-child-training-boxer-4752967/"></a>
-    9. Gym instructer video - Video by Mikhail Nilov from Pexels <a href="https://www.pexels.com/video/a-group-of-people-inside-the-fitness-gym-6740282/"></a>
-    10. Gym Instructer 1 (PT1) - Image by <a href="https://pixabay.com/users/katetrysh-4218753/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1972698">Kate Trysh</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1972698">Pixabay</a>
-    11. Gym Instructer 2 (PT2) - Image by <a href="https://pixabay.com/users/janeb13-725943/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1180062">janeb13</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1180062">Pixabay</a>
-    12. Gym Instructer 3 (PT3) - Image by <a href="https://pixabay.com/users/matanvizel-5033181/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2628919">Matan Ray Vizel</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2628919">Pixabay</a>
-    13. Gym Instructer 4 (PT4) -Image by <a href="https://pixabay.com/users/publicdomainpictures-14/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=18884">PublicDomainPictures</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=18884">Pixabay</a>
-
-    (Images have been compressed in order for the site to load up quicker)
-
-    14. Map code found on following help site - <a href="https://blog.duda.co/responsive-google-maps-for-your-website"></a>
-    15. Direct Twitter DM code found at - <a href="https://developer.twitter.com/en/docs/twitter-for-websites/direct-message-button"></a>
-    16. Deployment instructions used from GitHub help pages
-    17. README file template from Code Institute used as a guide. <a href="https://github.com/Code-Institute-Solutions/SampleREADME"></a> -->
+1. Photo by Dom Le Roy from Pexels stadium photo - https://www.pexels.com/photo/people-sitting-on-stadium-seats-3991976/
+2. Arsenal flag - Image by <a href="https://pixabay.com/users/jorono-1966666/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3568936">jorono</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3568936">Pixabay</a>
+3. Chelsea - Image by <a href="https://pixabay.com/users/jorono-1966666/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2699594">jorono</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2699594">Pixabay</a>
+4. Leicester - Image by <a href="https://pixabay.com/users/jorono-1966666/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3566688">jorono</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3566688">Pixabay</a>
+5. Liverpool - Image by <a href="https://pixabay.com/users/jorono-1966666/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2698969">jorono</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2698969">Pixabay</a>
+6. Man City - Image by <a href="https://pixabay.com/users/jorono-1966666/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2697766">jorono</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2697766">Pixabay</a>
+7. Wolverhampton Wanderers - Image by <a href="https://pixabay.com/users/jorono-1966666/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3568910">jorono</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3568910">Pixabay</a>
+8. Badge - Image by <a href="https://pixabay.com/users/clker-free-vector-images-3736/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=308943">Clker-Free-Vector-Images</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=308943">Pixabay</a>
 
 
 ### Acknowledgements
-<!-- * My Mentor for assistance and feedback.
+* My Mentor Adegbenga Adeye for assistance and feedback - he's great!
 
-* Tutor support at Code Institute for their support. -->
+* Tutor support at Code Institute for their support.
+
+* My friend Palmjit Kunnar for his help on finding my error in my js game code!
 
 [Back to Table of contents](#table-of-contents)
 ___

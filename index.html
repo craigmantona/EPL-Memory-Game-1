@@ -10,34 +10,35 @@
     integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css"
     integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@500&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@500&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="./assets/css/style.css">
   <title>EPL Memory Game</title>
 </head>
 
 <body class="hero-image">
 
-<br>
+  <br>
   <div class="col title text-center">
     <h3 class="display-4">EPL Memory Game</h3>
     <br>
     <p>A memory game based on the teams in the English Premier League</p>
   </div>
 
-<br>
+  <br>
 
   <div class="container-fluid text-center">
 
 
     <!-- Modal -->
 
-    <button type="button" class="btn btn-classes" data-toggle="modal" data-target="#rulesModal">Rules of the game</button>
+    <button type="button" class="btn btn-classes" data-toggle="modal" data-target="#rulesModal">Rules of the
+      game</button>
 
 
   </div>
-   
+
   <br>
 
   <div class="container-fluid text-center">
@@ -52,102 +53,102 @@
 
   <div class="container-fluid text-center">
 
-  <a class="btn" href="team-location.html">Team Location</a>
-
-  
-</div>
+    <a class="btn" href="team-location.html">Team Location</a>
 
 
+  </div>
 
 
 
-    <!--Footer section-->
-    <footer class="footer container-fluid footer-container text-center fixed-bottom">
-      <div id="footer-details footer" class="row">
-        <div class="col-sm-6 ">
-          <button type="button" class="btn btn-classes" data-toggle="modal" data-target="#contactModal">Contact Us</button></div>
 
-        <div class="col-sm-6 text-center">
-          <p>MantonApp2021©</p>
-          
+
+  <!--Footer section-->
+  <footer class="footer container-fluid footer-container text-center fixed-bottom">
+    <div id="footer-details footer" class="row">
+      <div class="col-sm-6 ">
+        <a class="btn" href="contact.html">Contact us</a>
+      </div>
+
+      <div class="col-sm-6 text-center">
+        <p>MantonApp2021©</p>
+
+      </div>
+  </footer>
+
+
+  <!-- Rules modal -->
+  <div class="modal fade" id="rulesModal" role="dialog">
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h3 class="modal-title">Rules</h3>
         </div>
+        <div class="modal-body">
 
-        
-    </footer>
+          <p>Turn over any two cards on each turn. If they match they will stay turned, if they do not they will flip
+            back over.</p>
+          <p>Locate all of the hidden pairs as quickly as you can!
+          </p>
 
-
-    <!-- Rules modal -->
-    <div class="modal fade" id="rulesModal" role="dialog">
-      <div class="modal-dialog modal-dialog-centered">
-        <div class="modal-content">
-          <div class="modal-header">
-            <h3 class="modal-title">Rules</h3>
-          </div>
-          <div class="modal-body">
-            
-            <p>Turn over any two cards on each turn. If they match they will stay turned, if they do not they will flip back over.</p>
-            <p>Locate all of the hidden pairs as quickly as you can!
-            </p>
-            
-          </div>
-          <div class="modal-footer">
-            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-          </div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
         </div>
       </div>
     </div>
+  </div>
 
-    
 
-     <!-- Contact us modal -->
-     <div class="modal fade" id="contactModal" role="dialog">
-      <div class="modal-dialog modal-dialog-centered"id="contact-form">
-        <div>
-          <form id="form">
-            <h2>Contact us</h2>
-            <div class="form-group">
-              <label>Your Name</label>
-              <input type="text" class="form-control" name="from_name" id="from_name"
-                placeholder="Enter your name here" required>
-            </div>
-            <div class="form-group">
-              <label>Email</label>
-              <input type="email" class="form-control" name="reply_to" id="reply_to"
-                placeholder="Enter your email here" required>
-            </div>
-            <div class="form-group">
-              <label>Your Message</label>
-              <textarea class="form-control" name="message" id="message" placeholder="Type your message here"
-                required></textarea>
-            </div>
-            <div class="container">
-              <div class="row">
-                <div class="col text-center mb-3">
-                  <button type="submit" value="Send Email" id="button"
-                    class="btn btn-light border border-dark">Submit</button>
-                </div>
+
+  <!-- Contact us modal -->
+  <div class="modal fade " id="contactModal" role="dialog">
+    <div class="modal-dialog modal-dialog-centered" id="contact-form">
+      <div class="text-center">
+        <form id="form">
+          <h2>Contact us</h2>
+          <div class="form-group">
+            <label>Your Name</label>
+            <input type="text" class="form-control" name="from_name" id="from_name" placeholder="Enter your name here"
+              required>
+          </div>
+          <div class="form-group">
+            <label>Email</label>
+            <input type="email" class="form-control" name="reply_to" id="reply_to" placeholder="Enter your email here"
+              required>
+          </div>
+          <div class="form-group">
+            <label>Your Message</label>
+            <textarea class="form-control" name="message" id="message" placeholder="Type your message here"
+              required></textarea>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col text-center mb-3">
+                <button type="submit" value="Send Email" id="button"
+                  class="btn btn-light border border-dark">Submit</button>
               </div>
             </div>
-          </form>
-        </div>
+          </div>
+        </form>
       </div>
     </div>
+  </div>
 
 
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-      integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
-    </script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"
-      integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous">
-    </script>
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
+  </script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"
+    integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous">
+  </script>
 
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"
-      integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous">
-    </script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"
+    integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous">
+  </script>
 
-<script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js"></script>
-<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCEVA7wnl0fL4jRLi1lOGE73o6qYiuob28&callback=initMap"></script>
-<script src="assets/js/map.js"></script>
+  <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js">
+  </script>
+
 
 
 </body>
