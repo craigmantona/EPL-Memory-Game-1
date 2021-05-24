@@ -3,7 +3,7 @@
 ## Interactive Frontend Development Milestone Project.
 
 EPL Memory Game - my second milestone project - a site for educational purpose based on the clubs in the English Premier League.
-<!-- ## [Link to finished GYM site](https://craigmantona.github.io/EPL-Memory-Game-1/) -->
+## [Link to finished GYM site](https://craigmantona.github.io/EPL-Memory-Game-1/)
 
 This is my educational Memory Game based on the English Premier League.
 
