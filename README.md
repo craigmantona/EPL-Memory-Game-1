@@ -10,7 +10,7 @@ This is my educational Memory Game based on the English Premier League.
 It is a simple memory game that has been made using css, HTML and javascript.
 
 
-<img src="/assets/images/mock-up-of-site.png" alt="Images of site on different media screens."/>
+<img src="/assets/images/mockup.png" alt="Images of site on different media screens."/>
 
 #### A view of how the site looks over different media.
 ---
