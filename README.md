@@ -272,6 +272,7 @@ The Webformatter.com Markup Validator were used to validate every page of the pr
 * Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 * Issue with getting the cards to flip caused a lot of headaches. I got a friend (Palmjit Kunnar) to cast his eyes over my js code and he found my problem. I had accidentaly left some code out of the curly brackets that meant the js always stopped after the first click.
+<img src="/assets/images/flip-issue.png" alt="Images of cards staying turned after click in error."/>
 
 
 ## Performance testing
@@ -355,10 +356,12 @@ ___
 
 ## Project screenshots
 
-<!-- Home page on website <img src="/assets/images/Home-GYM.png" alt="Home page on website."/>
+Home page on website <img src="/assets/images/home-page.png" alt="Home page on website."/>
 
-Prices page on website <img src="/assets/images/Prices-GYM.png" alt="Prices page on website."/>
+Rules modal on website <img src="/assets/images/rules.png" alt="Rules of game pop-up."/>
 
-Classes page on website <img src="/assets/images/Classes-GYM.png" alt="Classes page on website."/>
+Team location page on website <img src="/assets/images/team-location.png" alt="Team location page on website."/>
 
-Team & Contacts page on website <img src="/assets/images/Team-GYM.png" alt="Team and contacts page on website."/> -->
+Contact page on website <img src="/assets/images/contact.png" alt="Contact page on website."/>
+
+Game page on website <img src="/assets/images/game-page.png" alt="Game page on website."/>
