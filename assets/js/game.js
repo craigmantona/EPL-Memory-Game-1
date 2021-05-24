@@ -4,6 +4,7 @@ var cards = document.querySelectorAll('.team-card');
 var hasFlippedCard = false;
 var lockBoard = false;
 var firstCard, secondCard;
+var matchedCards = [];
 
 
 function flipCard() {
@@ -38,6 +39,7 @@ function disableCards() {
   firstCard.removeEventListener('click', flipCard);
   secondCard.removeEventListener('click', flipCard);
 
+
   resetBoard();
 
 }
@@ -58,6 +60,8 @@ function resetBoard() {
   [hasFlippedCard, lockBoard] = [false, false];
   [firstCard, secondCard] = [null, null];
 }
+
+
 
 //function to shuffle cards immediatley invoked 
 (function shuffle() {
